@@ -10,10 +10,8 @@ experimento 1
 
 MASTER 1
 
-<<<<<<< HEAD
 MASTER 2
-=======
+
 Experimento 2
->>>>>>> experimento
 
 mañana tengo que ir al gym, tengo que hacer pecho
