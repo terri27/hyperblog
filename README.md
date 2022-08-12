@@ -5,3 +5,4 @@ Un pequeño blog para hacer las pruebas de control de versiones
 
 * Creado por el desarrollador IvánDev
 * Sabe desarrollo frontend, linux
+*Disponible para laborar
